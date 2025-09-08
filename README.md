@@ -1,5 +1,7 @@
 ## Hi there 👋
-<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/afdb6fe4-dd37-4a3f-bc3a-55fec92c1117" /><img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/0a018639-6a7a-498b-9d80-f5b7f0b4b421" />
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/afdb6fe4-dd37-4a3f-bc3a-55fec92c1117" /> <img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/0a018639-6a7a-498b-9d80-f5b7f0b4b421" /> <img width="62" height="28" alt="image" src="https://github.com/user-attachments/assets/5926fdbb-c9d4-4c06-933a-fb1baab6e86e" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/c0d2c45f-6a72-47a9-94ed-6a38cca3df8a" />
+
+
 
 
 <!--
