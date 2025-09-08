@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/afdb6fe4-dd37-4a3f-bc3a-55fec92c1117" />
 
 <!--
 **AerotechXD/AerotechXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
