@@ -1,55 +1,22 @@
 name: Metrics
-
 on:
-
-  # Schedule daily updates
-
-  schedule: [{cron: "0 0 * * *"}]
-
-  # Run workflow manually
-
-  workflow_dispatch:
-
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
-
-  github-metrics:
-
-    runs-on: ubuntu-latest
-
-    permissions:
-
-      contents: write
-
-    steps:
-
-      - uses: lowlighter/metrics@latest
-
-        with:
-
-          # Your GitHub username
-
-          user: AerotechXD
-
-          # This token is provided by GitHub for free
-
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Language stats will be rendered automatically
-
-          template: classic
-
-          # List of enabled plugins
-
-          plugin_isocalendar: yes
-
-          plugin_isocalendar_duration: full-year
-
-          plugin_languages: yes
-
-          plugin_languages_ignored: javascript,html,css
-
-          plugin_languages_indepth: yes
-
-          plugin_languages_sections: most-used
-
-          plugin_lines: yes
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: AerotechXD
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_ignored: javascript,html,css
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_lines: yes
