@@ -1,6 +1,6 @@
 ### Hi there 👋                 
 -- Developer            
--- How to reach me: `@aerotechy.` on Discord            
+-- How to reach me: `@` on Discord            
 ### What kind of things I develop 💻         
 -- Backend            
 -- Discord Bots               
